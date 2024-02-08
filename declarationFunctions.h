@@ -1,5 +1,5 @@
-#ifndef __HANDLE_H_
-#define __HANDLE_H_
+#ifndef __DECLARATIONFUNCTIONS_H_
+#define __DECLARATIONFUNCTIONS_H_
 void handle_OnConnect();
 void handle_motorOn();
 void handle_motorOff();
