@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include <WebServer.h>
+#include "declarationFunctions"
 
 /* Put your SSID & Password */
 const char* ssid = "ESP32";  // Enter SSID here
